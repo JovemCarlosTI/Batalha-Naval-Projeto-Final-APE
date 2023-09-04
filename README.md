@@ -9,6 +9,6 @@
 
 ![preview](preview.png)
 
-Este é o projeto prático final realizado para a disciplina de Algoritmo e Programação Estruturada do CST em Sistemas para Internet no Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB)
+Este é o projeto prático final realizado para a disciplina de Algoritmo e Programação Estruturada do CST em Sistemas para Internet no Instituto Federal da Paraíba (IFPB)!
 
 Para visualizar o projeto, acesse pelo [link do replit](https://replit.com/@CarlosAndre34/Batalha-Naval-Projeto-Final-APE)!
